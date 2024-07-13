@@ -1,2 +1,2 @@
 # Datawhale-_NLP_Notes
-学习笔记仓库
+NLP 机器翻译 学习笔记
